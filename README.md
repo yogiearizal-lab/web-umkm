@@ -1,2 +1,2 @@
 # web-umkm
-web
+web prompter untuk UMKM
